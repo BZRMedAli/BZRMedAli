@@ -1,20 +1,17 @@
 <div align="center">
 
-# Hi 👋 I'm Mohamed Ali Bouzar
+BOUZAR Mohamed Ali
 
-### 💻 Computer Science Student | Java Developer | Future Software Engineer
-
+### 💻 Computer Science Student
 <p>
 Passionate about programming, software engineering and building clean, efficient applications.
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d458ad24-9c3d-475c-a083-5b01ce1785a7" /> About Me
 
 - 🎓 Computer Science Student
 - ☕ Currently learning Java, Object-Oriented Programming and Data Structures
