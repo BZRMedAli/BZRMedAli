@@ -25,64 +25,12 @@ Passionate about programming, software engineering and building clean, efficient
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,html,css,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,react,python,git,github,docker,linux,vscode&theme=dark" />
 
 </p>
 
 ---
 
-# 📚 Currently Learning
-
-```java
-public class MohamedAli {
-
-    String university = "Computer Science";
-
-    String[] learning = {
-        "Java",
-        "Object-Oriented Programming",
-        "Data Structures",
-        "Algorithms",
-        "Git & GitHub"
-    };
-
-    String goal = "Become a Software Engineer";
-}
-```
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # 🚀 Featured Repositories
 
@@ -94,7 +42,7 @@ public class MohamedAli {
 
 ---
 
-# 📫 Connect With Me
+# 📫 Contact Me
 
 <p align="center">
 
