@@ -21,7 +21,7 @@ Passionate about programming, software engineering and building clean, efficient
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ Skills
 
 <p align="center">
 
@@ -32,15 +32,6 @@ Passionate about programming, software engineering and building clean, efficient
 ---
 
 
-# 🚀 Featured Repositories
-
-- ☕ Java Projects
-- 📚 Data Structures & Algorithms
-- 💻 University Projects
-- 🧩 Exercism Java Solutions
-- 🌟 Personal Projects
-
----
 
 # 📫 Contact Me
 
@@ -56,10 +47,4 @@ Passionate about programming, software engineering and building clean, efficient
 
 </p>
 
----
 
-<div align="center">
-
-### ⭐ "Code. Learn. Build. Repeat."
-
-</div>
