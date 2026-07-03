@@ -2,7 +2,7 @@
 
 
 <details>
-<p><strong> <summary> <--- Software Engineering Student --->  </summary> </strong></p>
+<p><strong> <summary> --- Software Engineering Student ---  </summary> </strong></p>
 
 </details>
 
