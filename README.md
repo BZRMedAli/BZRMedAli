@@ -37,11 +37,11 @@ Passionate about programming, software engineering and building clean, efficient
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:bouzarmohamedali@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/mohamed-ali-bouzar-569776381/?skipRedirect=true">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
