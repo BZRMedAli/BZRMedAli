@@ -1,6 +1,6 @@
 <div align="center">
 
-<p style="font-size:40px; font-weight:bold;">
+<p style="font-size:70px; font-weight:bold;">
 BOUZAR Mohamed Ali
 </p>
 
