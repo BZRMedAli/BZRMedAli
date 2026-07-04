@@ -28,7 +28,7 @@ Passionate about programming, software engineering and building clean, efficient
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,react,python,git,github,docker,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,react,python,git,github,docker,linux&theme=dark" />
 
 </p>
 
