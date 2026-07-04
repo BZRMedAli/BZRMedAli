@@ -37,7 +37,7 @@ Passionate about programming, software engineering and building clean, efficient
 
 <p align="center">
 
-<a href="mailto:bouzarmohamedali@gmail.com">
+<a href="mailto:bouzarmohamedali@gmail.com" target="_blank">  
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
