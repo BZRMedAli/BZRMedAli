@@ -1,18 +1,18 @@
 <div align="center">
 
 <h1>BOUZAR Mohamed Ali</h1>
-
-### 💻 Computer Science Student
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💻 Computer Science Student
 <p>
 Passionate about programming, software engineering and building clean, efficient applications.
 
   
-</p>
-<img width="220" height="220" alt="hacker-hacker-man" src="https://github.com/user-attachments/assets/ef2a00f0-9e1c-45a1-8538-1a0ef7d12f45" />
+</p style="border:1px solid white">
+<img width="300" height="250" alt="hacker-hacker-man" src="https://github.com/user-attachments/assets/ef2a00f0-9e1c-45a1-8538-1a0ef7d12f45" />
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/d458ad24-9c3d-475c-a083-5b01ce1785a7" /> About Me
 
@@ -22,7 +22,7 @@ Passionate about programming, software engineering and building clean, efficient
 - 💡 Interested in Software Engineering and Backend Development
 - 🚀 Building projects to become a professional Software Engineer
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/700097ff-19cd-43db-b380-fb4c5986caab" /> My Skills
 
@@ -32,7 +32,7 @@ Passionate about programming, software engineering and building clean, efficient
 
 </p>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 
