@@ -41,7 +41,7 @@ Passionate about programming, software engineering and building clean, efficient
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohamed-ali-bouzar-569776381/?skipRedirect=true">
+<a href="https://www.linkedin.com/in/mohamed-ali-bouzar-569776381/?skipRedirect=true" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
