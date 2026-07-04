@@ -1,6 +1,8 @@
 <div align="center">
 
-<p font-size="32px"><b>BOUZAR Mohamed Ali</b></p>
+<p style="font-size:40px; font-weight:bold;">
+BOUZAR Mohamed Ali
+</p>
 
 💻 Computer Science Student
 <p>
