@@ -1,12 +1,16 @@
 <div align="center">
 
-<p style="font-size:150px; font-weight:bold">BOUZAR Mohamed Ali </p>
+<h3>BOUZAR Mohamed Ali</h3>
+
+
 💻 Computer Science Student
 <p>
 Passionate about programming, software engineering and building clean, efficient applications.
 
   
 </p style="border:1px solid white">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 <img width="300" height="250" alt="hacker-hacker-man" src="https://github.com/user-attachments/assets/ef2a00f0-9e1c-45a1-8538-1a0ef7d12f45" />
 
 </div>
