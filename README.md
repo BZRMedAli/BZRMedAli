@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>BOUZAR Mohamed Ali</h1>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 💻 Computer Science Student
 <p>
 Passionate about programming, software engineering and building clean, efficient applications.
@@ -12,7 +12,7 @@ Passionate about programming, software engineering and building clean, efficient
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/d458ad24-9c3d-475c-a083-5b01ce1785a7" /> About Me
 
