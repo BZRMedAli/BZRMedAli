@@ -14,7 +14,7 @@ Passionate about programming, software engineering and building clean, efficient
 
 ---
 
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d458ad24-9c3d-475c-a083-5b01ce1785a7" /> About Me
+# <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/d458ad24-9c3d-475c-a083-5b01ce1785a7" /> About Me
 
 - 🎓 Computer Science Student
 - ☕ Currently learning Java, Object-Oriented Programming and Data Structures
@@ -24,7 +24,7 @@ Passionate about programming, software engineering and building clean, efficient
 
 ---
 
-# ⚙️ Skills
+# <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/700097ff-19cd-43db-b380-fb4c5986caab" /> My Skills
 
 <p align="center">
 
@@ -36,13 +36,14 @@ Passionate about programming, software engineering and building clean, efficient
 
 
 
-# 📫 Contact Me
+# <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/fc21bd93-cd00-441f-a2d5-e9c596fca76e" /> Contact Me
 
 <p align="center">
 
 <a href="mailto:bouzarmohamedali@gmail.com" target="_blank">  
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+<br>
 
 <a href="https://www.linkedin.com/in/mohamed-ali-bouzar-569776381/?skipRedirect=true" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
