@@ -1,9 +1,6 @@
 <div align="center">
 
-<p style="font-size:70px; font-weight:bold;">
-BOUZAR Mohamed Ali
-</p>
-
+<p style="font-size:150px; font-weight:bold">BOUZAR Mohamed Ali </p>
 💻 Computer Science Student
 <p>
 Passionate about programming, software engineering and building clean, efficient applications.
