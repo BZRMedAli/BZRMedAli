@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>BOUZAR Mohamed Ali</h1>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 💻 Computer Science Student
 <p>
 Passionate about programming, software engineering and building clean, efficient applications.
