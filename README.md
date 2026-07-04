@@ -22,7 +22,7 @@ Passionate about programming, software engineering and building clean, efficient
 - 💡 Interested in Software Engineering and Backend Development
 - 🚀 Building projects to become a professional Software Engineer
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/700097ff-19cd-43db-b380-fb4c5986caab" /> My Skills
 
@@ -32,7 +32,7 @@ Passionate about programming, software engineering and building clean, efficient
 
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 
